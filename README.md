@@ -1,5 +1,3 @@
-# VirtHook-VirtFusion-WebHook-Interceptor
-
 Discord Bot README
 This is a Discord bot script written in PHP that is currently under development. The bot aims to provide administrators with the ability to control virtual machines (VMs) by adding features such as stop, start, restart, and suspend.
 
